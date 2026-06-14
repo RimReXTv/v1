@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris",
+  "description": "Production-grade decentralized single-coin non-custodial wallet and mobile Light Node validator client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
